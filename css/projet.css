@@ -599,7 +599,7 @@ a{
     .com{
         /* background-color: aquamarine; */
         height: 2500px;
-        width: 100%;
+        width: 95%;
         flex-direction: column-reverse;
         margin: 0px;
     }
@@ -635,27 +635,49 @@ a{
     .contai{
         height: 1900px;
         width:  92%;
+        justify-content: center;
     }
     .co{
         height: 15%;
         width: 100%;
+        /* padding-left: 20px; */
+        margin-left: 20px;
     }
     .cote{
         height: 35%;
         width: 100%;
-        /* background-color:#F2F2F2; */
         box-shadow: none;
+        padding-left: 20px;
+        margin-top: 20px;
     }
     .cot{
-        height: 42%;
+        height: 40%;
         width: 100%;
     }
+    .mb-2{
+        /* background: red; */
+        margin-bottom: -3rem;
+    }
+    .mb-4{
+        /* background: blue; */
+        margin-bottom: -6rem; 
+        margin-top: -9rem;
+    }
+    .mb-3{
+        /* background: red; */
+        margin-bottom: -4rem;
+    }
+    .mb-5{
+        /* background: #0065fc; */
+        margin-top: -6rem;
+    }
     .img3{
-        height: 83%;
+        height: 90%;
     }
     .contenu{
         height: 130px;
         width: 100%;
+        margin-top: -5rem;
     }
     .liste{
         height: 33,33%;
@@ -687,7 +709,7 @@ a{
     .com{
         /* background-color: aquamarine; */
         height: auto;
-        width: 100%;
+        width: 97%;
         flex-direction: column-reverse;
     }
     .conteneur{
@@ -750,7 +772,7 @@ a{
     .com{
         /* background-color: rgb(243, 150, 186); */
         height: auto;
-        width: 100%;
+        width: 98%;
         flex-direction: column-reverse;
     }
     .conteneur{
