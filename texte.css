@@ -1,0 +1,13 @@
+p {
+    color: rgba(0, 0, 255, 0.568);
+}
+h2{
+    color: rgba(8, 129, 8, 0.719);
+}
+p {      
+    font-size: 14px; 
+} 
+h1 {     
+     font-size: 40px; 
+ }
+ p  {      font-family: Impact, "Arial Black", Arial, Verdana, sans-serif;  }  

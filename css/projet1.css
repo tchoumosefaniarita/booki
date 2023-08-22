@@ -1,0 +1,6 @@
+.conteneur{
+    background-color: aquamarine;
+    border: solid;
+    display: flex;
+    flex-wrap: wrap;
+}
