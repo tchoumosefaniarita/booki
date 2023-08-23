@@ -696,9 +696,9 @@ a{
     }
 }
 @media screen and (min-width: 901px) and ( max-width: 1000px) {
-    /* html,body{
+    html,body{
         background-color: greenyellow;
-    } */
+    }
     .bea{
         width: 95%;
         height: 40px;
