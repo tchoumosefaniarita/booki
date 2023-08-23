@@ -587,6 +587,7 @@ a{
         width: auto;
         height: 150px;
         margin: 4px;
+        flex-wrap: wrap
     }
     /* .fille{
         width: 30%;
