@@ -596,21 +596,25 @@ a{
         width: 150px;
         height: 20%;
         margin: 1px;
+        margin-bottom: 4px;
     }
     .fille1{
         width: 130px;
         height: 20%;
         margin: 1px;
+        margin-bottom: 4px;
     }
     .fille2{
-        width: 150px;
+        width: 170px;
         height: 20%;
         margin: 1px;
+        margin-bottom: 4px;
     }
     .fille3{
-        width: 200px;
+        width: 220px;
         height: 20%;
         margin: 1px;
+        margin-bottom: 4px;
     }
     .new-class{
         padding-top: 3px;
@@ -765,6 +769,11 @@ a{
     }
     .eto{
         width: 65%;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    .etoil{
+        padding-bottom: 6px;
     }
     .im{
         /* background-color: aquamarine; */
