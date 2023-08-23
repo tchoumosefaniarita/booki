@@ -511,7 +511,7 @@ a{
     margin-right: 20px;
     margin-top: 10px;
 }
-@media screen and (max-width: 1024px){
+@media screen and (max-width: 800px){
     .con{
         justify-content: left ;
         height: 100px;
@@ -695,7 +695,7 @@ a{
         border-radius: 0%;
     }
 }
-@media screen and (min-width: 1025px) and ( max-width: 2000px) {
+@media screen and (min-width: 801px) and ( max-width: 1000px) {
     /* html,body{
         background-color: greenyellow;
     } */
@@ -764,7 +764,7 @@ a{
         width: 100%;
     }
 }
-@media screen and (min-width: 2000px) and ( max-width: 3000px){
+@media screen and (min-width: 1000px) and ( max-width: 1700px){
     /* version mini ordi
     html,body{
         background-color: red;
