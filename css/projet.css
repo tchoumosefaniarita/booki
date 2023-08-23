@@ -512,6 +512,9 @@ a{
     margin-top: 10px;
 }
 @media screen and (max-width: 1000px){
+    html, body{
+        font-size: 20px;
+    }
     .con{
         justify-content: left ;
         height: 100px;
