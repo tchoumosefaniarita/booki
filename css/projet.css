@@ -587,13 +587,28 @@ a{
         width: auto;
         height: 150px;
         margin: 4px;
-        flex-wrap: wrap
+        flex-direction: column;
     }
-    /* .fille{
-        width: 30%;
-        height: 25%;
+    .fille{
+        width: 150px;
+        height: 20%;
         margin: 1px;
-    } */
+    }
+    .fille1{
+        width: 130px;
+        height: 20%;
+        margin: 1px;
+    }
+    .fille2{
+        width: 150px;
+        height: 20%;
+        margin: 1px;
+    }
+    .fille3{
+        width: 200px;
+        height: 20%;
+        margin: 1px;
+    }
     .new-class{
         padding-top: 3px;
     }
