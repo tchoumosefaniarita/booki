@@ -616,6 +616,11 @@ a{
         float: none;
         margin: 0px;
     }
+    .eto{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+    }
     a{
         text-decoration: none;
     }
