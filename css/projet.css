@@ -556,10 +556,18 @@ a{
     }
     .lo{
         width: 30%;
+        min-width: 60px;
+        max-width: 90px;
     }
     .rad{
         height: 103%;
         border-radius: 12px;
+        min-width: 60px;
+        max-width: 90px;
+    }
+    .radio{
+        min-width: 60px;
+        max-width: 90px;
     }
     .rd{
         opacity: 0;
@@ -575,7 +583,10 @@ a{
     } */
     .marseil{
         border: 0px;
-        width: 65%;
+        width: 77%;
+    }
+    .marseille{
+        font-size: 40px;   
     }
     .heber{
         height: 50%; 
