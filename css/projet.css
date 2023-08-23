@@ -637,10 +637,14 @@ a{
         height: 25%;
         width: 92%; 
     }
+    .stef{
+        margin-left: 20px;
+    }
     .contai{
         height: 1900px;
         width:  92%;
         justify-content: center;
+        padding-left: 10px;
     }
     .co{
         height: 15%;
